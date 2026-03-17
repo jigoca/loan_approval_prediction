@@ -23,7 +23,7 @@ El proceso tradicional de evaluación de préstamos depende de analistas humanos
 * Mayor riesgo de sesgos subjetivos en la toma de decisiones.
 * Costos operativos elevados asociados al personal de evaluación.
     1. #### Pregunta central de investigación
-¿Es posible predecir con precisión si un solicitante de préstamo será aprobado o rechazado, utilizando algoritmos de aprendizaje automático y variables socioeconómicas disponibles en el momento de la solicitud?
+    ¿Es posible predecir con precisión si un solicitante de préstamo será aprobado o rechazado, utilizando algoritmos de aprendizaje automático y variables socioeconómicas disponibles en el momento de la solicitud?
 
     2. #### Variables del problema
 | #|	Variable            |   Descripción                 |
